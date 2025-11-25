@@ -3,7 +3,7 @@
 // ============================================
 const CONFIG = {
     pageTitle: "Recargas de Juegos y Saldo Digital (Precios en Bs)",
-    whatsappNumber: "591",
+    whatsappNumber: "59160351093",
     currency: "bs",
     colors: {
         primary: "#02A9F4",
@@ -22,9 +22,7 @@ const CONFIG = {
             slug: "roblox",
             iconUrl: "img/roblox.webp",
             requirementsList: [
-                "Comprobante de pago.",
-                "Usuario y contraseña de tu cuenta de Roblox (método recomendado) o código de Gift Card.",
-                "Cuenta sin verificación de 2 pasos activa temporalmente."
+                "Usuario y Contraseña de tu cuenta de Roblox"
             ],
             products: [
                 {
@@ -59,9 +57,7 @@ const CONFIG = {
             slug: "clash-royale",
             iconUrl: "img/clashroyale.webp",
             requirementsList: [
-                "Comprobante de pago.",
-                "Datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID).",
-                "Código de verificación si aplica (se solicitará durante la recarga)."
+                "Correo ligado a tu cuenta (se recibirá un código para acceder)"
             ],
             products: [
                 {
@@ -96,9 +92,7 @@ const CONFIG = {
             slug: "clash-of-clans",
             iconUrl: "img/clashofc.webp",
             requirementsList: [
-                "Comprobante de pago.",
-                "Datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID).",
-                "Código de verificación si aplica (se solicitará durante la recarga)."
+                "Correo ligado a tu cuenta (se recibirá un código para acceder)"
             ],
             products: [
                 {
@@ -133,9 +127,7 @@ const CONFIG = {
             slug: "brawl-stars",
             iconUrl: "img/brawl-stars-logo.png",
             requirementsList: [
-                "Comprobante de pago.",
-                "Datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID).",
-                "Código de verificación si aplica (se solicitará durante la recarga)."
+                "Correo ligado a tu cuenta (se recibirá un código para acceder)"
             ],
             products: [
                 {
@@ -155,9 +147,7 @@ const CONFIG = {
             slug: "steam-saldo",
             iconUrl: "img/Steam.png",
             requirementsList: [
-                "Comprobante de pago.",
-                "Nombre de usuario de tu cuenta de Steam (para asegurarnos que la región sea compatible).",
-                "El saldo se envía en formato de código de recarga (Gift Card)."
+                "Usuario y Contraseña de tu cuenta de Steam"
             ],
             products: [
                 {
@@ -187,9 +177,7 @@ const CONFIG = {
             slug: "vistas-tiktok",
             iconUrl: "img/tiktok.png",
             requirementsList: [
-                "Comprobante de pago.",
-                "El enlace completo y directo del video de TikTok que deseas promocionar.",
-                "El video debe ser público y no tener restricciones de edad/región."
+                "Usuario y Contraseña de tu cuenta de TikTok (opcionalmente puede requerir Google/Facebook, pero se recomienda poner solo usuario y contraseña)"
             ],
             products: [
                 {
@@ -206,6 +194,36 @@ const CONFIG = {
                     option: "45k a 120k Vistas",
                     price: 100,
                     whatsappMessage: "Hola, quiero el paquete de 45k a 120k Vistas para TikTok por 100bs. Por favor, envíame el comprobante de pago y el *enlace completo del video* de TikTok que deseas promocionar."
+                }
+            ]
+        },
+        {
+            name: "Fortnite",
+            slug: "fortnite",
+            iconUrl: "img/fortnite.png",
+            requirementsList: [
+                "Usuario y Contraseña o Correo de tu cuenta de Fortnite"
+            ],
+            products: [
+                {
+                    option: "1000 V-Bucks",
+                    price: 80,
+                    whatsappMessage: "Hola, quiero 1000 V-Bucks de Fortnite por 80bs. Por favor, envíame el comprobante de pago y tu usuario y contraseña o correo de Fortnite."
+                },
+                {
+                    option: "2800 V-Bucks",
+                    price: 200,
+                    whatsappMessage: "Hola, quiero 2800 V-Bucks de Fortnite por 200bs. Por favor, envíame el comprobante de pago y tu usuario y contraseña o correo de Fortnite."
+                },
+                {
+                    option: "5000 V-Bucks",
+                    price: 350,
+                    whatsappMessage: "Hola, quiero 5000 V-Bucks de Fortnite por 350bs. Por favor, envíame el comprobante de pago y tu usuario y contraseña o correo de Fortnite."
+                },
+                {
+                    option: "13500 V-Bucks",
+                    price: 850,
+                    whatsappMessage: "Hola, quiero 13500 V-Bucks de Fortnite por 850bs. Por favor, envíame el comprobante de pago y tu usuario y contraseña o correo de Fortnite."
                 }
             ]
         }
