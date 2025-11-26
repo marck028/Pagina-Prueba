@@ -28,27 +28,27 @@ const CONFIG = {
                 {
                     option: "500 Robux",
                     price: 70,
-                    whatsappMessage: "Hola, estoy interesado en la recarga de 500 Robux para ROBLOX por 70bs. Por favor, envíame el comprobante de pago e indica si el método de recarga será por: 1. Usuario y contraseña (recomienda). 2. Gift Card."
+                    whatsappMessage: "Hola, estoy interesado en la recarga de 500 Robux para ROBLOX por 70bs. ¿Los datos que necesito proporcionar son el usuario y contraseña verdad?"
                 },
                 {
                     option: "1000 Robux",
                     price: 140,
-                    whatsappMessage: "Hola, estoy interesado en la recarga de 1000 Robux para ROBLOX por 140bs. Por favor, envíame el comprobante de pago e indica si el método de recarga será por: 1. Usuario y contraseña (recomienda). 2. Gift Card."
+                    whatsappMessage: "Hola, estoy interesado en la recarga de 1000 Robux para ROBLOX por 140bs. ¿Los datos que necesito proporcionar son el usuario y contraseña verdad?"
                 },
                 {
                     option: "2000 Robux",
                     price: 280,
-                    whatsappMessage: "Hola, estoy interesado en la recarga de 2000 Robux para ROBLOX por 280bs. Por favor, envíame el comprobante de pago e indica si el método de recarga será por: 1. Usuario y contraseña (recomienda). 2. Gift Card."
+                    whatsappMessage: "Hola, estoy interesado en la recarga de 2000 Robux para ROBLOX por 280bs. ¿Los datos que necesito proporcionar son el usuario y contraseña verdad?"
                 },
                 {
                     option: "5250 Robux",
                     price: 700,
-                    whatsappMessage: "Hola, estoy interesado en la recarga de 5250 Robux para ROBLOX por 700bs. Por favor, envíame el comprobante de pago e indica si el método de recarga será por: 1. Usuario y contraseña (recomienda). 2. Gift Card."
+                    whatsappMessage: "Hola, estoy interesado en la recarga de 5250 Robux para ROBLOX por 700bs. ¿Los datos que necesito proporcionar son el usuario y contraseña verdad?"
                 },
                 {
                     option: "Roblox Premium (1 Mes)",
                     price: 130,
-                    whatsappMessage: "Hola, estoy interesado en la suscripción Roblox Premium por 130bs. Por favor, envíame el comprobante de pago y tu usuario y contraseña de ROBLOX para activar la suscripción."
+                    whatsappMessage: "Hola, estoy interesado en la suscripción Roblox Premium por 130bs. ¿Los datos que necesito proporcionar son el usuario y contraseña de ROBLOX verdad?"
                 }
             ]
         },
@@ -63,27 +63,27 @@ const CONFIG = {
                 {
                     option: "Pass Royale",
                     price: 120,
-                    whatsappMessage: "Hola, quiero comprar el Pass Royale de Clash Royale por 120bs. Por favor, envíame el comprobante de pago y los datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID) para la recarga."
+                    whatsappMessage: "Hola, quiero comprar el Pass Royale de Clash Royale por 120bs. ¿Los datos que necesito proporcionar son el correo ligado a mi cuenta verdad?"
                 },
                 {
                     option: "80 Gemas",
                     price: 10,
-                    whatsappMessage: "Hola, quiero comprar 80 Gemas de Clash Royale por 10bs. Por favor, envíame el comprobante de pago y los datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID) para la recarga."
+                    whatsappMessage: "Hola, quiero comprar 80 Gemas de Clash Royale por 10bs. ¿Los datos que necesito proporcionar son el correo ligado a mi cuenta verdad?"
                 },
                 {
                     option: "500 Gemas",
                     price: 30,
-                    whatsappMessage: "Hola, quiero comprar 500 Gemas de Clash Royale por 30bs. Por favor, envíame el comprobante de pago y los datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID) para la recarga."
+                    whatsappMessage: "Hola, quiero comprar 500 Gemas de Clash Royale por 30bs. ¿Los datos que necesito proporcionar son el correo ligado a mi cuenta verdad?"
                 },
                 {
                     option: "1200 Gemas",
                     price: 65,
-                    whatsappMessage: "Hola, quiero comprar 1200 Gemas de Clash Royale por 65bs. Por favor, envíame el comprobante de pago y los datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID) para la recarga."
+                    whatsappMessage: "Hola, quiero comprar 1200 Gemas de Clash Royale por 65bs. ¿Los datos que necesito proporcionar son el correo ligado a mi cuenta verdad?"
                 },
                 {
                     option: "2500 Gemas",
                     price: 130,
-                    whatsappMessage: "Hola, quiero comprar 2500 Gemas de Clash Royale por 130bs. Por favor, envíame el comprobante de pago y los datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID) para la recarga."
+                    whatsappMessage: "Hola, quiero comprar 2500 Gemas de Clash Royale por 130bs. ¿Los datos que necesito proporcionar son el correo ligado a mi cuenta verdad?"
                 }
             ]
         },
@@ -98,27 +98,27 @@ const CONFIG = {
                 {
                     option: "Pase de Oro",
                     price: 20,
-                    whatsappMessage: "Hola, quiero el Pase de Oro de Clash of Clans por 20bs. Por favor, envíame el comprobante de pago y los datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID) para la recarga."
+                    whatsappMessage: "Hola, quiero el Pase de Oro de Clash of Clans por 20bs. ¿Los datos que necesito proporcionar son el correo ligado a mi cuenta verdad?"
                 },
                 {
                     option: "Mini Pase",
                     price: 25,
-                    whatsappMessage: "Hola, quiero el Mini Pase de Clash of Clans por 25bs. Por favor, envíame el comprobante de pago y los datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID) para la recarga."
+                    whatsappMessage: "Hola, quiero el Mini Pase de Clash of Clans por 25bs. ¿Los datos que necesito proporcionar son el correo ligado a mi cuenta verdad?"
                 },
                 {
                     option: "80 Gemas",
                     price: 10,
-                    whatsappMessage: "Hola, quiero 80 Gemas de Clash of Clans por 10bs. Por favor, envíame el comprobante de pago y los datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID) para la recarga."
+                    whatsappMessage: "Hola, quiero 80 Gemas de Clash of Clans por 10bs. ¿Los datos que necesito proporcionar son el correo ligado a mi cuenta verdad?"
                 },
                 {
                     option: "500 Gemas",
                     price: 30,
-                    whatsappMessage: "Hola, quiero 500 Gemas de Clash of Clans por 30bs. Por favor, envíame el comprobante de pago y los datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID) para la recarga."
+                    whatsappMessage: "Hola, quiero 500 Gemas de Clash of Clans por 30bs. ¿Los datos que necesito proporcionar son el correo ligado a mi cuenta verdad?"
                 },
                 {
                     option: "1200 Gemas",
                     price: 65,
-                    whatsappMessage: "Hola, quiero 1200 Gemas de Clash of Clans por 65bs. Por favor, envíame el comprobante de pago y los datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID) para la recarga."
+                    whatsappMessage: "Hola, quiero 1200 Gemas de Clash of Clans por 65bs. ¿Los datos que necesito proporcionar son el correo ligado a mi cuenta verdad?"
                 }
             ]
         },
@@ -133,12 +133,12 @@ const CONFIG = {
                 {
                     option: "Pase Brawl Plus",
                     price: 130,
-                    whatsappMessage: "Hola, quiero el Pase Brawl Plus de Brawl Stars por 130bs. Por favor, envíame el comprobante de pago y los datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID) para la recarga."
+                    whatsappMessage: "Hola, quiero el Pase Brawl Plus de Brawl Stars por 130bs. ¿Los datos que necesito proporcionar son el correo ligado a mi cuenta verdad?"
                 },
                 {
                     option: "Pase Brawl",
                     price: 90,
-                    whatsappMessage: "Hola, quiero el Pase Brawl de Brawl Stars por 90bs. Por favor, envíame el comprobante de pago y los datos de inicio de sesión de tu cuenta (Supercell ID, Google Play, o Apple ID) para la recarga."
+                    whatsappMessage: "Hola, quiero el Pase Brawl de Brawl Stars por 90bs. ¿Los datos que necesito proporcionar son el correo ligado a mi cuenta verdad?"
                 }
             ]
         },
@@ -153,22 +153,22 @@ const CONFIG = {
                 {
                     option: "5 Dólares Saldo Steam",
                     price: 65,
-                    whatsappMessage: "Hola, quiero 5 Dólares de Saldo Steam por 65bs. Por favor, envíame el comprobante de pago y el nombre de usuario de tu cuenta de Steam para generar el código de recarga."
+                    whatsappMessage: "Hola, quiero 5 Dólares de Saldo Steam por 65bs. ¿Los datos que necesito proporcionar son el usuario y contraseña de Steam verdad?"
                 },
                 {
                     option: "10 Dólares Saldo Steam",
                     price: 130,
-                    whatsappMessage: "Hola, quiero 10 Dólares de Saldo Steam por 130bs. Por favor, envíame el comprobante de pago y el nombre de usuario de tu cuenta de Steam para generar el código de recarga."
+                    whatsappMessage: "Hola, quiero 10 Dólares de Saldo Steam por 130bs. ¿Los datos que necesito proporcionar son el usuario y contraseña de Steam verdad?"
                 },
                 {
                     option: "20 Dólares Saldo Steam",
                     price: 260,
-                    whatsappMessage: "Hola, quiero 20 Dólares de Saldo Steam por 260bs. Por favor, envíame el comprobante de pago y el nombre de usuario de tu cuenta de Steam para generar el código de recarga."
+                    whatsappMessage: "Hola, quiero 20 Dólares de Saldo Steam por 260bs. ¿Los datos que necesito proporcionar son el usuario y contraseña de Steam verdad?"
                 },
                 {
                     option: "50 Dólares Saldo Steam",
                     price: 650,
-                    whatsappMessage: "Hola, quiero 50 Dólares de Saldo Steam por 650bs. Por favor, envíame el comprobante de pago y el nombre de usuario de tu cuenta de Steam para generar el código de recarga."
+                    whatsappMessage: "Hola, quiero 50 Dólares de Saldo Steam por 650bs. ¿Los datos que necesito proporcionar son el usuario y contraseña de Steam verdad?"
                 }
             ]
         },
@@ -183,47 +183,52 @@ const CONFIG = {
                 {
                     option: "22k a 60k Vistas",
                     price: 50,
-                    whatsappMessage: "Hola, quiero el paquete de 22k a 60k Vistas para TikTok por 50bs. Por favor, envíame el comprobante de pago y el *enlace completo del video* de TikTok que deseas promocionar."
+                    whatsappMessage: "Hola, quiero el paquete de 22k a 60k Vistas para TikTok por 50bs. ¿Los datos que necesito proporcionar son el usuario y contraseña de TikTok verdad?"
                 },
                 {
                     option: "33k a 90k Vistas",
                     price: 70,
-                    whatsappMessage: "Hola, quiero el paquete de 33k a 90k Vistas para TikTok por 70bs. Por favor, envíame el comprobante de pago y el *enlace completo del video* de TikTok que deseas promocionar."
+                    whatsappMessage: "Hola, quiero el paquete de 33k a 90k Vistas para TikTok por 70bs. ¿Los datos que necesito proporcionar son el usuario y contraseña de TikTok verdad?"
                 },
                 {
                     option: "45k a 120k Vistas",
                     price: 100,
-                    whatsappMessage: "Hola, quiero el paquete de 45k a 120k Vistas para TikTok por 100bs. Por favor, envíame el comprobante de pago y el *enlace completo del video* de TikTok que deseas promocionar."
+                    whatsappMessage: "Hola, quiero el paquete de 45k a 120k Vistas para TikTok por 100bs. ¿Los datos que necesito proporcionar son el usuario y contraseña de TikTok verdad?"
                 }
             ]
         },
         {
             name: "Fortnite",
             slug: "fortnite",
-            iconUrl: "img/fortnite.png",
+            iconUrl: "img/fornite.jpeg",
             requirementsList: [
                 "Usuario y Contraseña o Correo de tu cuenta de Fortnite"
             ],
             products: [
                 {
-                    option: "1000 V-Bucks",
-                    price: 80,
-                    whatsappMessage: "Hola, quiero 1000 V-Bucks de Fortnite por 80bs. Por favor, envíame el comprobante de pago y tu usuario y contraseña o correo de Fortnite."
+                    option: "1000 Pavos",
+                    price: 120,
+                    whatsappMessage: "Hola, quiero 1000 Pavos de Fortnite por 120bs. ¿Los datos que necesito proporcionar son el usuario y contraseña o correo de Fortnite verdad?"
                 },
                 {
-                    option: "2800 V-Bucks",
-                    price: 200,
-                    whatsappMessage: "Hola, quiero 2800 V-Bucks de Fortnite por 200bs. Por favor, envíame el comprobante de pago y tu usuario y contraseña o correo de Fortnite."
+                    option: "2800 Pavos",
+                    price: 300,
+                    whatsappMessage: "Hola, quiero 2800 Pavos de Fortnite por 300bs. ¿Los datos que necesito proporcionar son el usuario y contraseña o correo de Fortnite verdad?"
                 },
                 {
-                    option: "5000 V-Bucks",
-                    price: 350,
-                    whatsappMessage: "Hola, quiero 5000 V-Bucks de Fortnite por 350bs. Por favor, envíame el comprobante de pago y tu usuario y contraseña o correo de Fortnite."
+                    option: "5000 Pavos",
+                    price: 480,
+                    whatsappMessage: "Hola, quiero 5000 Pavos de Fortnite por 480bs. ¿Los datos que necesito proporcionar son el usuario y contraseña o correo de Fortnite verdad?"
                 },
                 {
-                    option: "13500 V-Bucks",
-                    price: 850,
-                    whatsappMessage: "Hola, quiero 13500 V-Bucks de Fortnite por 850bs. Por favor, envíame el comprobante de pago y tu usuario y contraseña o correo de Fortnite."
+                    option: "13500 Pavos",
+                    price: 1100,
+                    whatsappMessage: "Hola, quiero 13500 Pavos de Fortnite por 1100bs. ¿Los datos que necesito proporcionar son el usuario y contraseña o correo de Fortnite verdad?"
+                },
+                {
+                    option: "Club Fortnite",
+                    price: 160,
+                    whatsappMessage: "Hola, quiero el Club Fortnite por 160bs. ¿Los datos que necesito proporcionar son el usuario y contraseña o correo de Fortnite verdad?"
                 }
             ]
         }
