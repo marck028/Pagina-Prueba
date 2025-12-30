@@ -231,6 +231,115 @@ const CONFIG = {
                     whatsappMessage: "Hola, quiero el Club Fortnite por 160bs. ¿Los datos que necesito proporcionar son el usuario y contraseña o correo de Fortnite verdad?"
                 }
             ]
+        },
+        {
+            name: "Mobile Legends",
+            slug: "mobile-legends",
+            iconUrl: "img/mobile legends.png",
+            requirementsList: [
+                "Comprobante de pago.",
+                "ID de usuario y Zone ID (ejemplo: 12345678 (1234)).",
+                "Nombre de invocador para verificar cuenta."
+            ],
+            products: [
+                {
+                    option: "50+50 Diamantes",
+                    price: 14,
+                    whatsappMessage: "Hola, quiero 50+50 Diamantes de Mobile Legends por 14bs. Mi ID es: (Indica tu ID y Zone ID)."
+                },
+                {
+                    option: "78+8 Diamantes",
+                    price: 18,
+                    whatsappMessage: "Hola, quiero 78+8 Diamantes de Mobile Legends por 18bs. Mi ID es: (Indica tu ID y Zone ID)."
+                },
+                {
+                    option: "156+16 Diamantes",
+                    price: 35,
+                    whatsappMessage: "Hola, quiero 156+16 Diamantes de Mobile Legends por 35bs. Mi ID es: (Indica tu ID y Zone ID)."
+                },
+                {
+                    option: "234+23 Diamantes",
+                    price: 45,
+                    whatsappMessage: "Hola, quiero 234+23 Diamantes de Mobile Legends por 45bs. Mi ID es: (Indica tu ID y Zone ID)."
+                },
+                {
+                    option: "625+81 Diamantes",
+                    price: 120,
+                    whatsappMessage: "Hola, quiero 625+81 Diamantes de Mobile Legends por 120bs. Mi ID es: (Indica tu ID y Zone ID)."
+                },
+                {
+                    option: "1860+335 Diamantes",
+                    price: 345,
+                    whatsappMessage: "Hola, quiero 1860+335 Diamantes de Mobile Legends por 345bs. Mi ID es: (Indica tu ID y Zone ID)."
+                },
+                {
+                    option: "3099+589 Diamantes",
+                    price: 600,
+                    whatsappMessage: "Hola, quiero 3099+589 Diamantes de Mobile Legends por 600bs. Mi ID es: (Indica tu ID y Zone ID)."
+                },
+                {
+                    option: "Pase Semanal",
+                    price: 20,
+                    whatsappMessage: "Hola, quiero el Pase Semanal de Mobile Legends por 20bs. Mi ID es: (Indica tu ID y Zone ID)."
+                }
+            ]
+        },
+        {
+            name: "Free Fire",
+            slug: "free-fire",
+            iconUrl: "img/free fire.png",
+            requirementsList: [
+                "Comprobante de pago.",
+                "ID de jugador.",
+                "Nombre de usuario para verificar cuenta."
+            ],
+            products: [
+                {
+                    option: "100+10 Diamantes",
+                    price: 13,
+                    whatsappMessage: "Hola, quiero 100+10 Diamantes de Free Fire por 13bs. Mi ID es: (Indica tu ID)."
+                },
+                {
+                    option: "310+31 Diamantes",
+                    price: 35,
+                    whatsappMessage: "Hola, quiero 310+31 Diamantes de Free Fire por 35bs. Mi ID es: (Indica tu ID)."
+                },
+                {
+                    option: "520+52 Diamantes",
+                    price: 50,
+                    whatsappMessage: "Hola, quiero 520+52 Diamantes de Free Fire por 50bs. Mi ID es: (Indica tu ID)."
+                },
+                {
+                    option: "1060+106 Diamantes",
+                    price: 95,
+                    whatsappMessage: "Hola, quiero 1060+106 Diamantes de Free Fire por 95bs. Mi ID es: (Indica tu ID)."
+                },
+                {
+                    option: "2180+218 Diamantes",
+                    price: 175,
+                    whatsappMessage: "Hola, quiero 2180+218 Diamantes de Free Fire por 175bs. Mi ID es: (Indica tu ID)."
+                },
+                {
+                    option: "5600+558 Diamantes",
+                    price: 500,
+                    whatsappMessage: "Hola, quiero 5600+558 Diamantes de Free Fire por 500bs. Mi ID es: (Indica tu ID)."
+                },
+                {
+                    option: "Membresía Básica",
+                    price: 12,
+                    whatsappMessage: "Hola, quiero la Membresía Básica de Free Fire por 12bs. Mi ID es: (Indica tu ID)."
+                },
+                {
+                    option: "Membresía Semanal",
+                    price: 30,
+                    whatsappMessage: "Hola, quiero la Membresía Semanal de Free Fire por 30bs. Mi ID es: (Indica tu ID)."
+                },
+                {
+                    option: "Membresía Mensual",
+                    price: 100,
+                    whatsappMessage: "Hola, quiero la Membresía Mensual de Free Fire por 100bs. Mi ID es: (Indica tu ID)."
+                }
+            ]
         }
     ]
 };
