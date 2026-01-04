@@ -3,7 +3,7 @@
 // ============================================
 const CONFIG = {
     pageTitle: "Recargas de Juegos y Saldo Digital (Precios en Bs)",
-    whatsappNumber: "59160351093",
+    whatsappNumber: "62739606",
     currency: "bs",
     colors: {
         primary: "#02A9F4",
